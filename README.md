@@ -75,25 +75,6 @@ The analysis highlights several patterns:
 
 These observations are based on the cleaned sales records used in the analysis.
 
-## Project Files
-
-| File | Description |
-|---|---|
-| `Online_Retail_II_Sales_Dashboard.ipynb` | Complete Python analysis notebook |
-| `online_retail_II_dashboard.html` | Interactive dashboard |
-| `README.md` | Project documentation |
-| `requirements.txt` | Python dependencies |
-
-## How to Run
-
-1. Download or clone this repository.
-2. Open the notebook using Google Colab or Jupyter Notebook.
-3. Download the dataset from the UCI Machine Learning Repository.
-4. Run the notebook cells in sequence.
-5. Open `online_retail_II_dashboard.html` in a web browser to explore the dashboard.
-
-An internet connection is required to load the Plotly charts in the exported HTML dashboard.
-
 ## Future Improvements
 
 - Add interactive filters for country and date range.
